@@ -4,6 +4,7 @@ public class Jugador : MonoBehaviour
 {
     public SpriteRender smallRender;
     public SpriteRender bigRender;
+    public AnimatedSprite corriendo;
     private DeathAnimation deathAnimation;
     public bool big => bigRender.enabled;
     public bool small => smallRender.enabled;
@@ -11,6 +12,7 @@ public class Jugador : MonoBehaviour
 
     private void Awake()
     {
+        corriendo = GetComponent<AnimatedSprite>();
         deathAnimation = GetComponent<DeathAnimation>();
     }
     public void Hit()

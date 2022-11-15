@@ -4,6 +4,7 @@ public class DeathAnimation : MonoBehaviour
 {
     public SpriteRenderer spriteRenderer;
     public Sprite deadSprite;
+    public AnimatedSprite corriendo;
 
     private void Reset()
     {

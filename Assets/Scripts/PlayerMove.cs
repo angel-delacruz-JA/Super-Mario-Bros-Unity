@@ -5,7 +5,7 @@ public class PlayerMove : MonoBehaviour
     private new Rigidbody2D rigidbody;
     private float inputAxis;
     private Camera camara;
-    private Vector2 velocity;
+    public Vector2 velocity;
     public float moveSpeed = 5f;
     public float  maxAltura = 5f;
     public float maxTiempoSalto = 1f;

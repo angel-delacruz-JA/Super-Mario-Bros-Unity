@@ -11,7 +11,7 @@ public static class Extensions
         }
         float radio = 0.25f;
         float distancia = 0.375f;
-        RaycastHit2D hit = Physics2D.CircleCast(rigidbody.position, radio, direccion, distancia, layermask);
+        RaycastHit2D hit = Physics2D.CircleCast(rigidbody.position, radio, direccion.normalized, distancia, layermask);
         return hit.collider != null && hit.rigidbody != rigidbody;
     }
     public static bool Test(this Transform transform, Transform other , Vector2 testDireccion)

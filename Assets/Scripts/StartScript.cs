@@ -21,4 +21,8 @@ public class StartScript : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
+    public void Salir()
+    {
+        Application.Quit();
+    }
 }

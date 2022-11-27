@@ -14,11 +14,11 @@ public class MenuSeleccionPersonaje : MonoBehaviour
     
     [SerializeField] private TextMeshProUGUI nombre;
 
-    private SelectPlayer selectplayer;
+    public GameManager selectplayer;
 
     public void Start()
     {
-        selectplayer = SelectPlayer.Instance;
+        selectplayer = GameManager.Instancia;
 
         index = PlayerPrefs.GetInt("JugadorIndex");
 
@@ -26,7 +26,7 @@ public class MenuSeleccionPersonaje : MonoBehaviour
         {
             index = 0;
         }
-
+        CambiarPantalla();
 
     }
 
@@ -63,6 +63,7 @@ public class MenuSeleccionPersonaje : MonoBehaviour
     public void iniciarJuego()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
     }
 
 }

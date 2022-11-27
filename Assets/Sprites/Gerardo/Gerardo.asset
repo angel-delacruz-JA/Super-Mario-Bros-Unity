@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6104d6a53c1e38245a6fc4adf6dd1cca, type: 3}
-  m_Name: Mario
+  m_Name: Gerardo
   m_EditorClassIdentifier: 
-  personajeJugable: {fileID: 0}
-  imagen: {fileID: 21300000, guid: b1fbef40fb8f18545a3eb1925545e0b0, type: 3}
-  nombre: Mario
+  personajeJugable: {fileID: 2726678054205822962, guid: d2c76aefa7769714fb6b558f98c45566, type: 3}
+  imagen: {fileID: 21300000, guid: 3ed200aa1183ec243b52f5532894518d, type: 3}
+  nombre: Gerardo

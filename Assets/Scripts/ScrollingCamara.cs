@@ -6,7 +6,7 @@ public class ScrollingCamara : MonoBehaviour
 
     private void Awake()
     {
-        player = GameObject.FindWithTag("Player").transform;
+            player = GameObject.FindWithTag("Player").transform;   
     }
 
     private void LateUpdate()

@@ -75,7 +75,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 21300000, guid: 63a07109d8dea004ab682c4501d8015b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: aa6623f4dc7bb724fa9f0e3ede56a6b8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -98,10 +98,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dae07db781d65b74ba9eafa623156e63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idle: {fileID: 21300000, guid: 63a07109d8dea004ab682c4501d8015b, type: 3}
-  salto: {fileID: 21300000, guid: 2967521423c5c4b4daae75ea88a05803, type: 3}
-  desliz: {fileID: 21300000, guid: c33841ad338684b4db5652e763120083, type: 3}
-  dead: {fileID: 21300000, guid: ce3c07253c5181b42a85d725233234e8, type: 3}
+  idle: {fileID: 21300000, guid: aa6623f4dc7bb724fa9f0e3ede56a6b8, type: 3}
+  salto: {fileID: 21300000, guid: 417a5dab27d1ef8409275cc4a7238c94, type: 3}
+  desliz: {fileID: 21300000, guid: 38ba8d2806ccd0f44aac0d41e1481852, type: 3}
+  dead: {fileID: 21300000, guid: 0c9cdb446e18c5e4b8a88ef5f0588654, type: 3}
   correr: {fileID: 744310575060576409}
 --- !u!114 &744310575060576409
 MonoBehaviour:
@@ -116,10 +116,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sprites:
-  - {fileID: 21300000, guid: fa9f5d0e4a71dda4797625d15122a242, type: 3}
-  - {fileID: 21300000, guid: 4cccd1e619b46ef42bfa1890ac03fe5f, type: 3}
-  - {fileID: 21300000, guid: 96755b2f7ba88404089ea2aa956e14bc, type: 3}
-  - {fileID: 21300000, guid: d5438a7aa9e989f44b7fccff4d1ddb24, type: 3}
+  - {fileID: 21300000, guid: a3dda15a128698d45bb55961a3198df8, type: 3}
+  - {fileID: 21300000, guid: 9f788e5987cff97409edadd7f84e322d, type: 3}
+  - {fileID: 21300000, guid: 0e4ddde43483a9544a717447a26390da, type: 3}
+  - {fileID: 21300000, guid: 9ea3bd6ff59ae85469d8cd4077ffb06d, type: 3}
   framerate: 0.05
 --- !u!1 &3423661197742490753
 GameObject:
@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 2262376858978764261}
   - component: {fileID: 3243504158166894648}
   m_Layer: 3
-  m_Name: Mario
+  m_Name: Green
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

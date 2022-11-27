@@ -37,4 +37,7 @@ public class Jugador : MonoBehaviour
 
         GameManager.Instancia.ResetLevel(3f);
     }
+
+
+  
 }

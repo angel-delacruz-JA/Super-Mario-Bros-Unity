@@ -1,9 +1,12 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections.Generic;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instancia { get; private set; }
+
+    public List<Personajes> personajes;
 
     public int mundo { get; private set; }
     public int nivel { get; private set; }
@@ -27,11 +30,11 @@ public class GameManager : MonoBehaviour
             Instancia = null;
         }
     }
-    private void Start()
+    public void Start()
     {
-        NewGame();
+        //NewGame();
     }
-    private void NewGame()
+    public void NewGame()
     {
         vidas = 3;
         CargarNivel(1,1);

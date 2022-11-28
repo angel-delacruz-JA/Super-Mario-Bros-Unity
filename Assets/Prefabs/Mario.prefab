@@ -119,8 +119,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: fc978d9c76651dd49b8e143e48c558c1, type: 3}
   - {fileID: 21300000, guid: 8e976549d02cda143add87593ed14162, type: 3}
   - {fileID: 21300000, guid: 556a243bb841ae24b89ce0e013545c48, type: 3}
-  - {fileID: 21300000, guid: 556a243bb841ae24b89ce0e013545c48, type: 3}
-  framerate: 0.1
+  - {fileID: 21300000, guid: 8e976549d02cda143add87593ed14162, type: 3}
+  framerate: 0.05
 --- !u!1 &2726678054205822962
 GameObject:
   m_ObjectHideFlags: 0
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocity: {x: 0, y: 0}
-  moveSpeed: 8
+  moveSpeed: 11
   maxAltura: 5
   maxTiempoSalto: 1
 --- !u!114 &2834856943736724299

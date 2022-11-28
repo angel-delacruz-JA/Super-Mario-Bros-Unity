@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     public int mundo { get; private set; }
     public int nivel { get; private set; }
     public int vidas { get; private set; }
+    public int monedas { get; private set; }
     private void Awake()
     {
         if (Instancia != null)
@@ -33,6 +34,7 @@ public class GameManager : MonoBehaviour
     }
     private void NewGame()
     {
+        monedas = 0;
         vidas = 3;
         CargarNivel(1,1);
     }
@@ -68,5 +70,19 @@ public class GameManager : MonoBehaviour
     }
     private void GameOver()
     {
-        Invoke(nameof(NewGame), 3f);    }
+        Invoke(nameof(NewGame), 3f);    
+    }
+    public void AgregarMoneda()
+    {
+        monedas++;
+        if (monedas == 100)
+        {
+            AgregarVidas();
+            monedas = 0;
+        }
+    }
+    public void AgregarVidas()
+    {
+        vidas++;
+    }
 }

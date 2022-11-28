@@ -6,13 +6,15 @@ public class ScrollingCamara : MonoBehaviour
 
     private void Awake()
     {
-            player = GameObject.FindWithTag("Player").transform;   
+        int indexJugador = PlayerPrefs.GetInt("JugadorIndex");
+        //player = GameObject.FindWithTag("Player").transform;
+        player = Instantiate(GameManager.Instancia.personajes[indexJugador].personajeJugable).transform;
     }
 
     private void LateUpdate()
     {
         Vector3 posicionCamara = transform.position;
-        posicionCamara.x = Mathf.Max(posicionCamara.x,player.position.x);
+        posicionCamara.x = Mathf.Max(posicionCamara.x, player.position.x);
         transform.position = posicionCamara;
     }
 }

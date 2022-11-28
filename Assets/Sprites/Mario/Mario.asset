@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6104d6a53c1e38245a6fc4adf6dd1cca, type: 3}
   m_Name: Mario
   m_EditorClassIdentifier: 
-  personajeJugable: {fileID: 2588188390499305277, guid: e1cd700644a9e50449fdf95fc534ed38, type: 3}
+  personajeJugable: {fileID: 3423661197742490753, guid: e574b7ef55c539745a94ef40b2364de2, type: 3}
   imagen: {fileID: 21300000, guid: 7d1fac3631fb72f46a2ffe6ed99d5b37, type: 3}
   nombre: Mario

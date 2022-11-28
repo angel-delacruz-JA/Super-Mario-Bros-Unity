@@ -6,7 +6,7 @@ public class PlayerMove : MonoBehaviour
     private float inputAxis;
     private Camera camara;
     public Vector2 velocity;
-    public float moveSpeed = 5f;
+    public float moveSpeed = 10f;
     public float  maxAltura = 5f;
     public float maxTiempoSalto = 1f;
     public float fuerzaSalto => (2f * maxAltura) /  (maxTiempoSalto / 2f);

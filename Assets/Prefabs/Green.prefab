@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteRenderer: {fileID: 1139459695232388757}
-  deadSprite: {fileID: 21300000, guid: 7f4c2c4804d8a2b478e761b789d3a08c, type: 3}
+  deadSprite: {fileID: 21300000, guid: 0c9cdb446e18c5e4b8a88ef5f0588654, type: 3}
   corriendo: {fileID: 0}
 --- !u!1 &6142678544436781659
 GameObject:

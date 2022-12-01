@@ -6,9 +6,9 @@ public class ScrollingCamara : MonoBehaviour
 
     private void Awake()
     {
-        int indexJugador = PlayerPrefs.GetInt("JugadorIndex");
-        //player = GameObject.FindWithTag("Player").transform;
-        player = Instantiate(GameManager.Instancia.personajes[indexJugador].personajeJugable).transform;
+        //int indexJugador = PlayerPrefs.GetInt("JugadorIndex");
+        player = GameObject.FindWithTag("Player").transform;
+        //player = Instantiate(GameManager.Instancia.personajes[indexJugador].personajeJugable).transform;
     }
 
     private void LateUpdate()

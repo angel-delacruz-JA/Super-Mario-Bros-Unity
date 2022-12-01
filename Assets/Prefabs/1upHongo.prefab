@@ -13,6 +13,9 @@ GameObject:
   - component: {fileID: 380675150912026795}
   - component: {fileID: 380675150912026788}
   - component: {fileID: 5909541474434252756}
+  - component: {fileID: -9126464233144207672}
+  - component: {fileID: 7748513902030244370}
+  - component: {fileID: 5970209453445472800}
   m_Layer: 6
   m_Name: 1upHongo
   m_TagString: Untagged
@@ -150,3 +153,42 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &-9126464233144207672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 380675150912026792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f613b1fc87b06bd4f8fce7281ab7aaac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
+--- !u!114 &7748513902030244370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 380675150912026792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a618baf91fca21644913b4c77eef73eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidad: 3
+  direccion: {x: 1, y: 0}
+--- !u!114 &5970209453445472800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 380675150912026792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3748d9276c0127499889c25459e7f55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -3,6 +3,7 @@ using UnityEngine;
 public class PlayerMove : MonoBehaviour
 {
     private new Rigidbody2D rigidbody;
+    private new Collider2D collider;
     private float inputAxis;
     private Camera camara;
     public Vector2 velocity;
@@ -19,7 +20,22 @@ public class PlayerMove : MonoBehaviour
     private void Awake()
     {
         rigidbody = GetComponent<Rigidbody2D>();
+        collider = GetComponent<Collider2D>();
         camara = Camera.main;
+    }
+    private void OnEnable()
+    {
+        rigidbody.isKinematic = false;
+        collider.enabled = true;
+        velocity = Vector2.zero;
+        saltando = false;
+    }
+    private void OnDisable()
+    {
+        rigidbody.isKinematic = true;
+        collider.enabled = false;
+        velocity = Vector2.zero;
+        saltando = false;
     }
     private void Update()
     {

@@ -11,7 +11,11 @@ public class Koopa : MonoBehaviour
         if (!adentroCaparazon && collision.gameObject.CompareTag("Player"))
         {
             Jugador jugador = collision.gameObject.GetComponent<Jugador>();
-            if (collision.transform.Test(transform, Vector2.down))
+            if (jugador.starpower)
+            {
+                Hit();
+            }
+            else if (collision.transform.Test(transform, Vector2.down))
             {
                 Caparazon();
             }
@@ -34,7 +38,14 @@ public class Koopa : MonoBehaviour
             else
             {
                 Jugador jugador = other.GetComponent<Jugador>();
-                jugador.Hit();
+                if (jugador.starpower)
+                {
+                    Hit();
+                }
+                else
+                {
+                    jugador.Hit();
+                }
             }
         }
         else if(!adentroCaparazon && other.gameObject.layer == LayerMask.NameToLayer("Shell"))

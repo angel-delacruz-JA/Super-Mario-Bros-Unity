@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections.Generic;
+using TMPro;
 
 public class GameManager : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class GameManager : MonoBehaviour
     public int nivel { get; private set; }
     public int vidas { get; private set; }
     public int monedas { get; private set; }
+    public float tiempo { get; private set; }
     private void Awake()
     {
         if (Instancia != null)
@@ -33,11 +35,23 @@ public class GameManager : MonoBehaviour
     }
     public void Start()
     {
+<<<<<<< HEAD
         Application.targetFrameRate = 60;
         //NewGame();
+=======
+        
+        
+    } 
+    public void Update()
+    {
+        
+        tiempo += Time.deltaTime;
+                
+>>>>>>> 123201af6cfc5307cf6e9eecb6bd8d4652e3f4a9
     }
     public void NewGame()
     {
+        tiempo = 0;
         monedas = 0;
         vidas = 3;
         CargarNivel(1,1);
@@ -49,7 +63,7 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene($"{mundo}-{nivel}");
     }
     public void ResetLevel(float delay)
-    {
+    {        
         Invoke(nameof(ResetNivel),delay);
     }
     public void SiguienteNivel()
@@ -62,6 +76,7 @@ public class GameManager : MonoBehaviour
     }
     public void ResetNivel()
     {
+        tiempo = 0;
         vidas--;
         if (vidas > 0)
         {
@@ -74,7 +89,8 @@ public class GameManager : MonoBehaviour
     }
     private void GameOver()
     {
-        Invoke(nameof(NewGame), 3f);    
+        //Invoke(nameof(NewGame), 3f);
+        SceneManager.LoadScene("GameOver");
     }
     public void AgregarMoneda()
     {

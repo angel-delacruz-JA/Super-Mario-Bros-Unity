@@ -75,7 +75,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 21300000, guid: aa6623f4dc7bb724fa9f0e3ede56a6b8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 17d3e74a5cadda54384c9685f9a9b020, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -98,10 +98,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dae07db781d65b74ba9eafa623156e63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idle: {fileID: 21300000, guid: aa6623f4dc7bb724fa9f0e3ede56a6b8, type: 3}
-  salto: {fileID: 21300000, guid: 417a5dab27d1ef8409275cc4a7238c94, type: 3}
-  desliz: {fileID: 21300000, guid: 38ba8d2806ccd0f44aac0d41e1481852, type: 3}
-  dead: {fileID: 21300000, guid: 0c9cdb446e18c5e4b8a88ef5f0588654, type: 3}
+  idle: {fileID: 21300000, guid: 17d3e74a5cadda54384c9685f9a9b020, type: 3}
+  salto: {fileID: 21300000, guid: 449147ee6bed3ec439c794f37d0300b4, type: 3}
+  desliz: {fileID: 21300000, guid: 9c17420961b28224596e04520a7331dd, type: 3}
+  dead: {fileID: 21300000, guid: a079e054a2e5a4a468e69a7dedec1a29, type: 3}
   correr: {fileID: 744310575060576409}
 --- !u!114 &744310575060576409
 MonoBehaviour:
@@ -116,10 +116,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sprites:
-  - {fileID: 21300000, guid: a3dda15a128698d45bb55961a3198df8, type: 3}
-  - {fileID: 21300000, guid: 9f788e5987cff97409edadd7f84e322d, type: 3}
-  - {fileID: 21300000, guid: 0e4ddde43483a9544a717447a26390da, type: 3}
-  - {fileID: 21300000, guid: 9ea3bd6ff59ae85469d8cd4077ffb06d, type: 3}
+  - {fileID: 21300000, guid: 5732b6a28867aea4cb5600bb92824488, type: 3}
+  - {fileID: 21300000, guid: 85c9fa0ce5797bb47ad954273ff296fc, type: 3}
+  - {fileID: 21300000, guid: a8110d65e7e43a04c9a64e31bc3f11ba, type: 3}
+  - {fileID: 21300000, guid: b52e93e13e5c25047a5ec3466d6c03f4, type: 3}
   framerate: 0.05
 --- !u!1 &3423661197742490753
 GameObject:
@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 2262376858978764261}
   - component: {fileID: 3243504158166894648}
   m_Layer: 3
-  m_Name: Green
+  m_Name: Orange
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteRenderer: {fileID: 1139459695232388757}
-  deadSprite: {fileID: 21300000, guid: 0c9cdb446e18c5e4b8a88ef5f0588654, type: 3}
+  deadSprite: {fileID: 21300000, guid: a079e054a2e5a4a468e69a7dedec1a29, type: 3}
   corriendo: {fileID: 0}
 --- !u!1 &6142678544436781659
 GameObject:
@@ -317,7 +317,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 21300000, guid: 89e5bf48b32b2f344905fc56cd473036, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d00bc9cc766c9ac43be59c8a41056325, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -340,9 +340,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dae07db781d65b74ba9eafa623156e63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idle: {fileID: 21300000, guid: 89e5bf48b32b2f344905fc56cd473036, type: 3}
-  salto: {fileID: 21300000, guid: b13d2ab5a2752a74ea881ecec26346b5, type: 3}
-  desliz: {fileID: 21300000, guid: 176a52dafce3544408d6b701ceac52c0, type: 3}
+  idle: {fileID: 21300000, guid: d00bc9cc766c9ac43be59c8a41056325, type: 3}
+  salto: {fileID: 21300000, guid: dd401a2a972915842a2ba8b7a1a0369a, type: 3}
+  desliz: {fileID: 21300000, guid: 811c3db5b8c0f574986c44f7a3d87dfa, type: 3}
   dead: {fileID: 0}
   correr: {fileID: 744310575419367632}
 --- !u!114 &744310575419367632
@@ -358,8 +358,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sprites:
-  - {fileID: 21300000, guid: 35cacf0f499fbd84abfd07407d6d1a8f, type: 3}
-  - {fileID: 21300000, guid: 4c7bdd0eea3b6f24d898423a4a28a649, type: 3}
-  - {fileID: 21300000, guid: bfe3e597d222ddf47ad013605a9eb02b, type: 3}
-  - {fileID: 21300000, guid: 4c7bdd0eea3b6f24d898423a4a28a649, type: 3}
+  - {fileID: 21300000, guid: 1fc043122d2e65c4eab7a18cd026094f, type: 3}
+  - {fileID: 21300000, guid: 6fc1c94f711b4574db4d7345969cd3db, type: 3}
+  - {fileID: 21300000, guid: b2428149287afc145a7d8e74da8d432f, type: 3}
+  - {fileID: 21300000, guid: 6fc1c94f711b4574db4d7345969cd3db, type: 3}
   framerate: 0.16666667

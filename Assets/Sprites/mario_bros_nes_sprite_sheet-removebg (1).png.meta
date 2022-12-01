@@ -1,0 +1,6713 @@
+fileFormatVersion: 2
+guid: ae4d8cbb5afdd5f40982cf38a4740f96
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 639
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7281af7c566fd7f4692198eb3620da78
+      internalID: -1184814925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 607
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a45766440db24f84680432b4d471b
+      internalID: -636475438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 639
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0acab223855fdc44afedfbacf61ecc0
+      internalID: -1764747027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 607
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f886a38e0827c614a9b8fcf3e8708dd0
+      internalID: -2093399721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 591
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5143aba084dc96f47afacfde33aecd00
+      internalID: 563739785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 591
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8321cde68a363884eb411d3712bd52e2
+      internalID: -1455772009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c949c6a3755859d42af03c34ee14ddee
+      internalID: 514070487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 577
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c524f97f3fc694faf449e387e0fd73
+      internalID: 1935818296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9334f9dee5f2314ea486ae12977d65f
+      internalID: -1009809496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4328d379b4da6408556b926c8cbcb8
+      internalID: 252273549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 577
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faf2de8d89a97646bdf39478806f24d
+      internalID: -2088756671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b209ae8542afb794ebc127a773d983c2
+      internalID: -1358270518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 577
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c813ddddd3fcd94ba5a6577d6ef7587
+      internalID: -2013648152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442fdbfe91a2a53488c275445a05326d
+      internalID: 90632872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aeca393f780df40aa79cb6f6bbb357
+      internalID: 109682283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 577
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6233ea82bbc2756439cb51119da38a99
+      internalID: -418841469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c6c0dca55435e4495e48907f30be4b
+      internalID: 1860124701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 577
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f438ae50e28c934d8c7f72616402c2b
+      internalID: 1242444797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f57b72bff2a9224281430ce08b267d4
+      internalID: -938002140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b332822d8816bad498d7b8372dc4d654
+      internalID: -391289784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eaa2ec38e928c4a9f3ef5dc0c32ada
+      internalID: -1232993368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b271ba917d4a248943aaeeb122eb2e
+      internalID: 1145442247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 577
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062b547191fef5c4eb341a7f1c344ed4
+      internalID: -1537540194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d576ed1e1c8a44da99786865b91362
+      internalID: -902081984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 577
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c63732b6f3d9d45bcf9e7c316bfff6
+      internalID: -1931625783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7611529b1cb7694cbc94c6c444af9b7
+      internalID: 115699429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 577
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628a552251de7740b2f1230bb534959
+      internalID: 95373007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7338674d6795fdc40a54fbdbf65cf347
+      internalID: -1921790198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c44f66deb47e246a5bce5c26172051
+      internalID: -1700706893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f991d575e378c4f9aa2da738821b39
+      internalID: 856829567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 560
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3423deb953e384989e0497f2b8f4b0
+      internalID: -1248732958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 560
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c7993f0af2dda4687be05a9bdf2e57
+      internalID: 414950096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 560
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3b4ac7f248244986c3d03e3d071d9
+      internalID: 305698324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 560
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b086bdfc2c51df4386e65d3f664a2fc
+      internalID: 685505001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63018c36667f55046b42c4f55b1d6854
+      internalID: -1259804861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b24d00441b14458bad9c68299ff8c
+      internalID: 94672994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 544
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4df96a833ab024b8100a4fe8c875b6
+      internalID: -825665141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 544
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33ed41ccfb3ea642a672a3cae91d1c6
+      internalID: 1164531655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 544
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5668965f09eda134794dcf7b5d231942
+      internalID: 1190236599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_39
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c2c471b2935c0428af9c01c0c78d54
+      internalID: 145812271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_40
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 544
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377467adda826d7409eaa5c713427bbd
+      internalID: 1402770059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc26905a6f758748b4ce26107b66ca5
+      internalID: -1768048398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 515
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290702f3e2128ac4288dba1b3874cb23
+      internalID: 1322201853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 529
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83a4268a8642b34a9b922408768eae1
+      internalID: -689489637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 529
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5605c3844cf674c4b85cb51f0bfed339
+      internalID: -516579182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 529
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4948280620f150f4890d23352b14e9e5
+      internalID: 1032957932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 529
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd3704b0cadada49b5773c11a71e089
+      internalID: -740477857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 529
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583974d1fb235fd4e92e2a288121f3a5
+      internalID: 803777024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 524
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992e58e1eb9e22246be0a37a85da2525
+      internalID: 1892689965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 524
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e4b05dc579c7645ba7f187ae37fa21
+      internalID: -1248706604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273cfbd7d56d7bb4da773767d1f80f4c
+      internalID: 1357545683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed39b29bac67ed489af03f00b2d5eb7
+      internalID: -926047314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6241229e5825c4944a5733779e3a3011
+      internalID: 2005343142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_53
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ecd9752de1a9b4ebea2e98537c3836
+      internalID: -1957227032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_54
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d435a26a835384b9368e9c7e39b895
+      internalID: 748692981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_55
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3c613b90b51244dbc4cbf0a565379d
+      internalID: -334352369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb00d23b337b38429003a7b2b6a921f
+      internalID: 1334472670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93140890e9bf51b498d31ddade48739a
+      internalID: 1489050835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_58
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a06b6c08c6b648b63a9b08bae4e91
+      internalID: -441942868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_59
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65274b7774e00514bb06effb31e58809
+      internalID: 1619780725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_60
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cca3def4a40254591e5ef22728e7ba
+      internalID: -213446373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_61
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b603b0b4c6ee9e46a48fec495aeda87
+      internalID: 1089956695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8db9fc5ef12074d82593e63cf35c18
+      internalID: -1474050603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f575bf9ec6a2b994db1d314889002461
+      internalID: -1166411474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f19980f8b185b4eb5af9ecf1a15c40
+      internalID: -1172253114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b5c143e671a234ab4656374e52f282
+      internalID: -704703636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41642f3fc8d1e794680542a7ed37fecb
+      internalID: -919378104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_67
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21c649fd01ac2041bc008dae403ad64
+      internalID: 800726351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_68
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c0d6f97da5ad04b88557fafdca49eb
+      internalID: -1172992620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_69
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a13c16fa005ef14b869df0740528179
+      internalID: 878751486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_70
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79c98ff25e242f4e9a3ae2c4fde0559
+      internalID: -1479516724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fc766b72935b64ebefa80390a1020e
+      internalID: -1101301458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_72
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 492
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6978fd392b5aaa7478c87394b72768c1
+      internalID: -812452476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_73
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 492
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b8249751b6af74b9301d3bfa6a8d88
+      internalID: -1717063284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 492
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61d2783a8ba83d4cb89139fa4f7dc88
+      internalID: 330628787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_75
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 492
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f62eb242b80914cb79a9884cb60043
+      internalID: 1793591834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_76
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 492
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f362b1af9d5f448d90b2dc0b79d52
+      internalID: -236146489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_77
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 492
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d59ee4d335fb134cb0e7759a880019a
+      internalID: 274999056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_78
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40ef603ff5ead24ea3b918d357c2240
+      internalID: 1113472262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_79
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 492
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7380626deb194248b927b89ebf5f0b2
+      internalID: 329466671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_80
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be7b685f4d8df54bb8456c6d54b3f2b
+      internalID: -1556337564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_81
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 491
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cc3865df5e5c44183713b63f0cfc82
+      internalID: -788299714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac59a004dc3df240b17544d871730d1
+      internalID: 799389155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_83
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79751e08da6104d4ea020affaf6b9316
+      internalID: 423625754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_84
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46dc54c9a8ea6d4692aa38892b5b08c
+      internalID: -1968810612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_85
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ba53962db57149b176c0af7297df4
+      internalID: 1793364270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33a01fa1c6cf3e44ac8a2bc11841085
+      internalID: -630908282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_87
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 492
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed317bec3aa224aae0abf944fde8ba
+      internalID: 85666843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_88
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8195f849e65baf49a035b10841a4cb8
+      internalID: -363571664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cb3a12e50d15943a411dd6982a0dc9
+      internalID: 129179959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 492
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b7a882b52251740a25b9ef21834c0c
+      internalID: 974527388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_91
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 465
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8efcb17a433d364b96aa0576188a4fe
+      internalID: 632552772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 465
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8635016aee7f84aae2a080bdd528ca
+      internalID: 1080041273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_93
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 465
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c634dae2c8a79ee4db153fc4459cf658
+      internalID: -256211203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_94
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 465
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea07dbd4653932849b8620b05e7b8450
+      internalID: 1773308800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_95
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 466
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8502ed04cc879647abd7f86da2c67e3
+      internalID: 242216037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_96
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 466
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3e63af66a5af94291e37e9fb427e49
+      internalID: 985950502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_97
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 466
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917b93de24a72bb4faced9e9a8bb07fc
+      internalID: 708652526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_98
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 466
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74b5afa62ecfb148825c3704c6b3c95
+      internalID: -604672276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 442
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555ca3489a7bcef40be3d377e8a8ef76
+      internalID: 1655352582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 442
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0242c492f47ec5b4c9a4ec4adf68a10c
+      internalID: 162285902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_101
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 442
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410abde03f61aef4080f9d4c9e85c3e7
+      internalID: 1962226534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_102
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 442
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522f680719589245b881bd74c6bff38
+      internalID: -1126483622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_103
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 442
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44473ad2d073bc54caa56b053673c98f
+      internalID: -1972965482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_104
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 442
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b55b24242fb9e84a92131d1ce6c5b52
+      internalID: 346543422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_105
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 442
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a10e67fbb655714faf015313a881957
+      internalID: 338621587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_106
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 442
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69332e44a80335849b0f1f904352c17c
+      internalID: -371398099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_107
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 397
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bc0f5cacda9c14a866836274858e9f
+      internalID: -1003703240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_108
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 397
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1291a2751615ca4198159eff3592d8c
+      internalID: -647063653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_109
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 414
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e280b28bcb1c63642975dce98287d620
+      internalID: 861069464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_110
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 414
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c67077d0516f294c8b9453997da6721
+      internalID: -1514681925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_111
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 414
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765416dabe84260478364b4b0ce12683
+      internalID: -1833862165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_112
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 399
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01e0443eeee4aa42ad6400315623d37
+      internalID: -2039807465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_113
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 391
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36be66235d2feb4b9836cdabeb9a24e
+      internalID: -434927344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_114
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 387
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172c7c450a3f8cc4596c867018caefde
+      internalID: -423503747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_115
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 365
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a496f2a3b4cafc43891bfc095c72355
+      internalID: -88256180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_116
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 365
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5ddb764314c574c912ee39482b4839
+      internalID: -1783452258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_117
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 365
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc4e2c3e7b14834ebcce5248ce3a858
+      internalID: -2079507472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_118
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 365
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ecf13c156b23549954c5502d813281
+      internalID: 290142965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_119
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 365
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72a3df3b62ddd4aa6917a90502cb8c
+      internalID: -1667746531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_120
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 365
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84980742551ee54589ce277eda6d984
+      internalID: 1854762377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_121
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 365
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62c6b64b9ce62645b69006110ea536c
+      internalID: -2045416824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_122
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 365
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde874e9b240f14db75d80057503260
+      internalID: 1682640458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_123
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 365
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f293ac5b8e60e5a4da7b3699941517c7
+      internalID: -671656077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_124
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 365
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c3059206e8c44faa338172f9d49d0
+      internalID: 1454451404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_125
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 365
+        width: 160
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c708d3d3adb22c745a18f1addb237501
+      internalID: -5272638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_126
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24678890ce1a9124aa899c4569d4e9c2
+      internalID: -1104887534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_127
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b62b7902e89294280d8499bbf5edcb
+      internalID: 1697541307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_128
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54500f3a147d9934faca06f528e33f37
+      internalID: 682759713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1245d89ddfece4d8ce5e66d0440e09
+      internalID: -1780092812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_130
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578a2365ebb61d44383894497b2eef67
+      internalID: 185847863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_131
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584b0a091ba9c374d8898d4df262fac8
+      internalID: -1767710922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_132
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72281f3dc2088404fa5146996d0eea2b
+      internalID: 665306786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_133
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d189a4414452fef41be71b48eefd2aee
+      internalID: -1157857434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_134
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62533c7ec8988fa49a77589252ad7f91
+      internalID: -1555794798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_135
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0296cbb1da8eae64894575ca0fc326cc
+      internalID: 1606894733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_136
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c253a8c1b50d82d4d8d288cd38d2f9d4
+      internalID: 1688187197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_137
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c204bcbaa5ba54eb4d632d711b9984
+      internalID: 541546608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_138
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c2df6ffed71740b45459d967dc931
+      internalID: -791096486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_139
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 325
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6729bf219cf6e40a3a56c4816862c4
+      internalID: 2145184495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_140
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 325
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a4f0d5875580249a7b4e7020d51cf5
+      internalID: 1189380610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_141
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257a23def5d6e014ca4519fcd14b5222
+      internalID: -498708828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_142
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 325
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f582e0ce84e749b8337e9a297684f
+      internalID: -1539335278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_143
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbfad9835854754b96b962f7bbcd626
+      internalID: 819472718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_144
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 324
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86c97e088869dd468aabb71148ed38b
+      internalID: 577363188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_145
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 325
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9645f69a328bf4f42b302741ca439984
+      internalID: -190428944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 325
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05f6430b2274f246b2cab3fbec9398d
+      internalID: -556172713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_147
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 326
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4badcbeba6d12a4285bbec90abbc5e8
+      internalID: 1050117451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_148
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 325
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50cdf1b99d7f884dbcf03853515674e
+      internalID: -1300243158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_149
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 324
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ed69c49fd08174ebd9aa348eb337e9
+      internalID: 341709664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_150
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 323
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fa5583750eccd47b7a56371256ffee
+      internalID: 1912427018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_151
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 324
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de128ecd8d52a8d4ba536d7160b5c9d6
+      internalID: -37067336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_152
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 324
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c1b185ae8e8a34082cb03ea1af4b2e
+      internalID: 1310474467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 323
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1513d4e00ac7ef4886c1782da09cfb7
+      internalID: 512070089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_154
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 322
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509b6b11f6e6af443a185ff10451b7b9
+      internalID: 6272561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_155
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 321
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fcf262245fca44d91b3eaa351e7f17
+      internalID: -1069415864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_156
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428556ee511db941a20f8499c74fee2
+      internalID: 1506291205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_157
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 302
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c57856a5e2ed649be83b8f9dfdb24c
+      internalID: -270693036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_158
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 302
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43332b401aa2b6841b2889028fff0a83
+      internalID: -1139013560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_159
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837d9c63520ca504f8a4b6bd41f750bf
+      internalID: -94248502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_160
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 302
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58cbdad7839d84eaa35382af7a1c01
+      internalID: 37059127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_161
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd354fa2ad7af44b84d9daed8e4b2c
+      internalID: -1499954786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_162
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 302
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8cbe63a5d65424b86e00ee850fc6e6
+      internalID: -508549575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_163
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 302
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b0ce89b6eec94ebb46b48465e6041
+      internalID: -1941676586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 302
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14605c1ff8a21da43a22844ecea951b4
+      internalID: -45083447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_165
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 303
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8d6e2caaf46ca4c986c4b5ec742353
+      internalID: 243826650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_166
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 302
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e79618c415dba4ba86fea0acd91cfb
+      internalID: -1742937458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_167
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 301
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e92421c743bf548914cdd9c90096f1
+      internalID: -725040010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_168
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 300
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e2536654c89744ea65a0601f2cd094
+      internalID: 1441659604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_169
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 301
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e885adbba8cf82646a7665d2269fa1a5
+      internalID: 1818518592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_170
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 301
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c270b770bc0e44691c2c9648960d84
+      internalID: 1901461623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_171
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 300
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0074784b9c2148975d843a714f80e
+      internalID: 1421745476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_172
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 299
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e809390fafb84cb7603166c0d6656
+      internalID: -390492674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_173
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 299
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a9ef903f1467e439a4c6a9462c62f5
+      internalID: -1993084489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_174
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8617c6b579a32f244aa8a2b043180ee7
+      internalID: -43388225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_175
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 283
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c38f3477798e4bb993e29ecb2ba33
+      internalID: -2059211800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_176
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 283
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990e8f36b6b3d2c4cbd11a1414ea4025
+      internalID: -100250461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_177
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35518236cb3a9cb4ebbd15b5ce14988a
+      internalID: 1191351185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_178
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 283
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8adf165c417c0c41a0fe29d5f39c696
+      internalID: -899339384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_179
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e234ae1460a4499b03764735bef70
+      internalID: 557265840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_180
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 283
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f027db4b51e0b8a419b83c3ba8e1bb82
+      internalID: 118429321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_181
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 283
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90480e0c077b6e2498c6f41f6cf25bde
+      internalID: 1015183854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_182
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 283
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48af9cda374c7b345b5e57150298a1e8
+      internalID: 2050533238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_183
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 284
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e110cebd0eddce42961663d8972a5b1
+      internalID: 218090483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_184
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 283
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f1a5f68a703b240ab68301765c82e3
+      internalID: -1938497589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_185
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 282
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5c26a4bfc9d374da5c484fc45deb2c
+      internalID: 296326002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_186
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 281
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551a30d1b5076ad4db91f1065e935dc0
+      internalID: 124605142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_187
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 282
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c953115449f7cf46a216d1e94940ad0
+      internalID: 614659222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_188
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 282
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341253651f3b7c743adb3df8ab8c6dbd
+      internalID: 1175719331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_189
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 281
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0629bb5d1e4ac48b746157d8d558ec
+      internalID: 78394219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_190
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 280
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab52db9e459cd1b4fa5d16cdd7b70ec4
+      internalID: -462826320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_191
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 279
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dde4708255b3e478fbe24d683fefe1
+      internalID: 1311881337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_192
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b06944d4d9865c48a2161646fcd89f1
+      internalID: 765635367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_193
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 262
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41433e7a8eb36bd4e95b891fa2d6826a
+      internalID: -1892357424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_194
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88f5fba82fad541850d6e2ddc659a9
+      internalID: 712313595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_195
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0447cab5dabb5e040a6a053eaccd5172
+      internalID: 1790796895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_196
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092892c465f8d99429e00a1f7bcc3485
+      internalID: 1839400603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_197
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 262
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb952daac478a9409eb698c9237709e
+      internalID: -32312232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_198
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6db1ad57b21f04ab59d39efbf77580
+      internalID: 1663177370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_199
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880357b61c75ef6489bb761950921fd0
+      internalID: 1735273004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_200
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248c94ff723d32f4da9536b23f0defd8
+      internalID: 2128783895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_201
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece71c4a65591cc41acd55b7cd74d233
+      internalID: -861299375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_202
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb8f7cef457dcc4da59665401be3d96
+      internalID: -610100556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_203
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 238
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87b1c7218127b64c893037583f2ab75
+      internalID: -946915894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 238
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0403401e4c1cc184f8484cf7a63dc7f7
+      internalID: 1921725973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_205
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a50b2aecda97b545ad92b471e8a4d03
+      internalID: -1139655335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_206
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6e36ebed04d9545bb26e012a85a3d9
+      internalID: 944795163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_207
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70977faee51c965488d2be6ce4b30b8b
+      internalID: -1524410373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_208
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 240
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb346cc01761b04f966d2cbc4ad309d
+      internalID: 209426508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_209
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 240
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1073209d98f35d2488f3a002ad22443d
+      internalID: -39108778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_210
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 240
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ed852568e0164f9825200d6cbe052
+      internalID: -179590478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_211
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b122d38c0c75fb48bb3510798ab923c
+      internalID: -1121872462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_212
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 214
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d8027e2f38154aa6cf9cce9ca759a
+      internalID: 70667929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_213
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 214
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42acf380b2b483048b708fd9736811ed
+      internalID: -1801608456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_214
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f2a1562c3139c4f82602191eeb34ca
+      internalID: -237167042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_215
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c534c3bccf0f5f4a90ddf3da5daa4c8
+      internalID: 259790828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_216
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9c9ad00ff585443879b9a4a9f4a41f
+      internalID: 1699550919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_217
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 216
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a355e3909d204c042b4ed6820c9de75b
+      internalID: 596499257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_218
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 216
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fd6376053f4db448b8d3f7a598e18f
+      internalID: 1685233412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_219
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 216
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a50d48a7cd594da11d979485f868d
+      internalID: 1716113137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_220
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf71e0df6fe85146a50ef7f92782e9f
+      internalID: 747261232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_221
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 188
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb8d506cb149b49afb315d58af1866
+      internalID: 1910314468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_222
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 188
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f32c1d28ecc9a4bba663e80abb8f5e
+      internalID: 1511119954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_223
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429dc41e19456764ab886c3554f20f37
+      internalID: -1663103046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_224
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944af8d6fe80b340bac143dbf72062c
+      internalID: -547590740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_225
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 190
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba71d52c49f059448b84ccc699de1da
+      internalID: 485905336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_226
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 190
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8802c8ac7d652834ca89f96b240b71ae
+      internalID: -972240559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_227
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 190
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d09f533c9900a8459445fb6bf19e829
+      internalID: 1389224375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_228
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 190
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1674c75d616de41b380113b8d84854
+      internalID: -352520917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_229
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 190
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69637301e4a4a34899e267183c16598
+      internalID: -2110370450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_230
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde44c1e4f31584e91fe11ee9f51f00
+      internalID: -1018761198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_231
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d50d87e73d4e84c81a03ef13a454c6
+      internalID: 256363028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_232
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ec3e2c469bb64682396bae6ea577b
+      internalID: -2108465726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_233
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64da71ee71606e54a957097ecd4fcf73
+      internalID: -498933233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_234
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ca8801bc89644eabf91f5e59fb416
+      internalID: -883954420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_235
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eecf58608eeafc45b2e970b20209f84
+      internalID: 321784974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_236
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807b4892950d5340b4c39d4ecb8abb7
+      internalID: -1234633976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_237
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f5a5b3a61025d46a519379033dbf50
+      internalID: -373941195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_238
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350b3fc1db97f404c9adc0c509000c36
+      internalID: 47805462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_239
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e942f725d7d83914aa50ea6fba7beae7
+      internalID: 377478202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_240
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 152
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1bb3640655ac74fab12ce0f9833bed
+      internalID: 1311551909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_241
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 151
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa2ab8c2b289b84baf99ca30e76e5c9
+      internalID: -819778117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_242
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a45d707fc02d4b8e1209b4b305cc7
+      internalID: -1749099092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_243
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 152
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd65b54438eca0b47a8ec7a93910155a
+      internalID: -403779240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_244
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 152
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a771a16130e762e47a21204b1255f25d
+      internalID: -1912594509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_245
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 152
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec29cd6e34d294d95d0f7b7db14b26
+      internalID: -195394289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_246
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 152
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad7520b920be1b4bb4c0ee8b640f90f
+      internalID: -1428911200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_247
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 152
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d18951f407f4344aa5ca1a0383cd54
+      internalID: -1459480067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_248
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736fea535d7bf134e90f485e5eaaac2b
+      internalID: -1836729763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_249
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453940942a8c28a45a2a3f0c860507c1
+      internalID: -134895513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_250
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65419a641cd13d84586ec81727764e39
+      internalID: 350185836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_251
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b669f7b1c99c34ab4a70559d8b21f3
+      internalID: 1893697818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_252
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbb1b5d795e7a54d96837b5a1bf18d2
+      internalID: -1123454717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_253
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1bf5014939fec4898f40a93b005106
+      internalID: 577266066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_254
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d96a109ac10994998a1c9d0de9d08c
+      internalID: 1701519231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_255
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17440781101a94c4c85a9154f314b318
+      internalID: -1694518849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_256
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c803da4afebc54ebe08d50e52e8ce2
+      internalID: 1614162369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_257
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbe6ff33cd4eda4db5efd263325b1a5
+      internalID: -877667883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_258
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b873dfc2c776fed44ad7a9e1d71a5ebb
+      internalID: -635353302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_259
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 109
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55a3282784b55a40b781f24c7a65eff
+      internalID: 1828432977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_260
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f22074b5bdc34e9a3914a013a6260
+      internalID: -134491001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_261
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aa1e03699214b498657669d2a1f2b0
+      internalID: 1638187450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_262
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b27ca101c3344e8239326dffbe357
+      internalID: 1633338189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_263
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 111
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7a8cabd090044b81f5259789a9d4f
+      internalID: -1199987119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_264
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 90
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aafe5309db125149aa4dde400f419cc
+      internalID: -779148380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_265
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87f13c18ef6167499303d707056bf72
+      internalID: 205601977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_266
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8584627edac1fdd4b8e10c1860a3421d
+      internalID: 544419860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_267
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 90
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f760c9c8b5b9a547af5c8b7db469698
+      internalID: -2018280396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_268
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d47d8d5d0f49a45b5d322fa931f525
+      internalID: -1120740344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_269
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330de43d5ccc6e140a3dbaaff1b17a39
+      internalID: -1744295523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_270
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 90
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4661549ebce3942bd1d898a1754c55
+      internalID: 2124290627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_271
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1dbc3ecbfda60438d1091d3b440de9
+      internalID: 2003241727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_272
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 12
+        width: 186
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee61c6ee696f57b4990f125a464f11c7
+      internalID: 2033349025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_273
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f41bf57f60dfe44aaa6bb78b8d81c2
+      internalID: 1661571902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_274
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b8d8a75e5e100469c382698ef03618
+      internalID: -57327183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_275
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 49
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a726cb32944c8c34eaac3800e124ca1c
+      internalID: -2110148797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_276
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 49
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cb201fc3e76c54a8d270155529484f
+      internalID: 2012832440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_277
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 49
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8258dbdb534868441b8e564c32a2a755
+      internalID: 1184531755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_278
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 50
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba17b7932f492438cf7d50cf58ac5d
+      internalID: 1548264055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_279
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 49
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99103204fa14ed4bbadbab0c4a574ee
+      internalID: -2037331034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_280
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abc2556de22f4447af8f40368ff2c20
+      internalID: 1832610416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_281
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b452f9a53b15f43a1066a96a2dde15
+      internalID: -572765151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_282
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 48
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97210dfc7bfd4ca49972b7e7822d5078
+      internalID: -1542535553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_283
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1359a58344cda924486ae77004fe2068
+      internalID: -1069186771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_284
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82ed7959a0dc1144ae74fe084d4f56e
+      internalID: -1342725927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_285
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 49
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06128f389ba6fb1488f823e4735d3fe5
+      internalID: -925610594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_286
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493aafdb2c71fed438f1521fb2d03774
+      internalID: 1757279490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_287
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a2e451f53651d40bee50f7ac18e3f6
+      internalID: -922008281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_288
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 12
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8bce5e7ab2e364ab6fee9fd2e1ebe3
+      internalID: -2073367743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_289
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10f749d872f4054e95b0188d5df7078
+      internalID: 252577423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_290
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 12
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490869a3dbf170b44837112fd6e9e02d
+      internalID: -2030100608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_291
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 13
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9b6ca990c751458536199ce0991c3
+      internalID: 127112079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_292
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f27a39b048f794ca3fb18d3cf94e2d
+      internalID: -525873118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_293
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 11
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa87a4129c86849ade0cf25f8baa0f
+      internalID: 1050659122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_294
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8cb2f8b8f619244b8d379cd8b11cdc
+      internalID: -55769476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_295
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3b35e26ef64d14aa00369be9d4d4ea
+      internalID: -1417933187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_296
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d9f3877340dad48814db3621b9352e
+      internalID: 400128386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_297
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 11
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581e7e50de2782d4b9a0e1e79bb93582
+      internalID: 361068226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_bros_nes_sprite_sheet-removebg (1)_298
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a16d6c635f6640973941556cd4328
+      internalID: 1101518346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mario_bros_nes_sprite_sheet-removebg (1)_102: -1126483622
+      mario_bros_nes_sprite_sheet-removebg (1)_268: -1120740344
+      mario_bros_nes_sprite_sheet-removebg (1)_278: 1548264055
+      mario_bros_nes_sprite_sheet-removebg (1)_287: -922008281
+      mario_bros_nes_sprite_sheet-removebg (1)_193: -1892357424
+      mario_bros_nes_sprite_sheet-removebg (1)_236: -1234633976
+      mario_bros_nes_sprite_sheet-removebg (1)_290: -2030100608
+      mario_bros_nes_sprite_sheet-removebg (1)_198: 1663177370
+      mario_bros_nes_sprite_sheet-removebg (1)_240: 1311551909
+      mario_bros_nes_sprite_sheet-removebg (1)_154: 6272561
+      mario_bros_nes_sprite_sheet-removebg (1)_94: 1773308800
+      mario_bros_nes_sprite_sheet-removebg (1)_51: -926047314
+      mario_bros_nes_sprite_sheet-removebg (1)_221: 1910314468
+      mario_bros_nes_sprite_sheet-removebg (1)_217: 596499257
+      mario_bros_nes_sprite_sheet-removebg (1)_152: 1310474467
+      mario_bros_nes_sprite_sheet-removebg (1)_10: -2088756671
+      mario_bros_nes_sprite_sheet-removebg (1)_41: -1768048398
+      mario_bros_nes_sprite_sheet-removebg (1)_45: 1032957932
+      mario_bros_nes_sprite_sheet-removebg (1)_84: -1968810612
+      mario_bros_nes_sprite_sheet-removebg (1)_248: -1836729763
+      mario_bros_nes_sprite_sheet-removebg (1)_266: 544419860
+      mario_bros_nes_sprite_sheet-removebg (1)_286: 1757279490
+      mario_bros_nes_sprite_sheet-removebg (1)_267: -2018280396
+      mario_bros_nes_sprite_sheet-removebg (1)_52: 2005343142
+      mario_bros_nes_sprite_sheet-removebg (1)_74: 330628787
+      mario_bros_nes_sprite_sheet-removebg (1)_282: -1542535553
+      mario_bros_nes_sprite_sheet-removebg (1)_72: -812452476
+      mario_bros_nes_sprite_sheet-removebg (1)_85: 1793364270
+      mario_bros_nes_sprite_sheet-removebg (1)_165: 243826650
+      mario_bros_nes_sprite_sheet-removebg (1)_151: -37067336
+      mario_bros_nes_sprite_sheet-removebg (1)_229: -2110370450
+      mario_bros_nes_sprite_sheet-removebg (1)_256: 1614162369
+      mario_bros_nes_sprite_sheet-removebg (1)_200: 2128783895
+      mario_bros_nes_sprite_sheet-removebg (1)_42: 1322201853
+      mario_bros_nes_sprite_sheet-removebg (1)_54: 748692981
+      mario_bros_nes_sprite_sheet-removebg (1)_106: -371398099
+      mario_bros_nes_sprite_sheet-removebg (1)_293: 1050659122
+      mario_bros_nes_sprite_sheet-removebg (1)_1: -636475438
+      mario_bros_nes_sprite_sheet-removebg (1)_204: 1921725973
+      mario_bros_nes_sprite_sheet-removebg (1)_99: 1655352582
+      mario_bros_nes_sprite_sheet-removebg (1)_141: -498708828
+      mario_bros_nes_sprite_sheet-removebg (1)_9: 252273549
+      mario_bros_nes_sprite_sheet-removebg (1)_253: 577266066
+      mario_bros_nes_sprite_sheet-removebg (1)_208: 209426508
+      mario_bros_nes_sprite_sheet-removebg (1)_27: -1921790198
+      mario_bros_nes_sprite_sheet-removebg (1)_271: 2003241727
+      mario_bros_nes_sprite_sheet-removebg (1)_104: 346543422
+      mario_bros_nes_sprite_sheet-removebg (1)_295: -1417933187
+      mario_bros_nes_sprite_sheet-removebg (1)_46: -740477857
+      mario_bros_nes_sprite_sheet-removebg (1)_114: -423503747
+      mario_bros_nes_sprite_sheet-removebg (1)_197: -32312232
+      mario_bros_nes_sprite_sheet-removebg (1)_36: -825665141
+      mario_bros_nes_sprite_sheet-removebg (1)_137: 541546608
+      mario_bros_nes_sprite_sheet-removebg (1)_262: 1633338189
+      mario_bros_nes_sprite_sheet-removebg (1)_232: -2108465726
+      mario_bros_nes_sprite_sheet-removebg (1)_13: 90632872
+      mario_bros_nes_sprite_sheet-removebg (1)_234: -883954420
+      mario_bros_nes_sprite_sheet-removebg (1)_189: 78394219
+      mario_bros_nes_sprite_sheet-removebg (1)_59: 1619780725
+      mario_bros_nes_sprite_sheet-removebg (1)_127: 1697541307
+      mario_bros_nes_sprite_sheet-removebg (1)_67: 800726351
+      mario_bros_nes_sprite_sheet-removebg (1)_79: 329466671
+      mario_bros_nes_sprite_sheet-removebg (1)_239: 377478202
+      mario_bros_nes_sprite_sheet-removebg (1)_140: 1189380610
+      mario_bros_nes_sprite_sheet-removebg (1)_164: -45083447
+      mario_bros_nes_sprite_sheet-removebg (1)_123: -671656077
+      mario_bros_nes_sprite_sheet-removebg (1)_49: -1248706604
+      mario_bros_nes_sprite_sheet-removebg (1)_21: 1145442247
+      mario_bros_nes_sprite_sheet-removebg (1)_133: -1157857434
+      mario_bros_nes_sprite_sheet-removebg (1)_139: 2145184495
+      mario_bros_nes_sprite_sheet-removebg (1)_155: -1069415864
+      mario_bros_nes_sprite_sheet-removebg (1)_160: 37059127
+      mario_bros_nes_sprite_sheet-removebg (1)_184: -1938497589
+      mario_bros_nes_sprite_sheet-removebg (1)_251: 1893697818
+      mario_bros_nes_sprite_sheet-removebg (1)_174: -43388225
+      mario_bros_nes_sprite_sheet-removebg (1)_187: 614659222
+      mario_bros_nes_sprite_sheet-removebg (1)_19: -391289784
+      mario_bros_nes_sprite_sheet-removebg (1)_69: 878751486
+      mario_bros_nes_sprite_sheet-removebg (1)_196: 1839400603
+      mario_bros_nes_sprite_sheet-removebg (1)_33: 685505001
+      mario_bros_nes_sprite_sheet-removebg (1)_50: 1357545683
+      mario_bros_nes_sprite_sheet-removebg (1)_206: 944795163
+      mario_bros_nes_sprite_sheet-removebg (1)_56: 1334472670
+      mario_bros_nes_sprite_sheet-removebg (1)_231: 256363028
+      mario_bros_nes_sprite_sheet-removebg (1)_203: -946915894
+      mario_bros_nes_sprite_sheet-removebg (1)_97: 708652526
+      mario_bros_nes_sprite_sheet-removebg (1)_265: 205601977
+      mario_bros_nes_sprite_sheet-removebg (1)_100: 162285902
+      mario_bros_nes_sprite_sheet-removebg (1)_108: -647063653
+      mario_bros_nes_sprite_sheet-removebg (1)_223: -1663103046
+      mario_bros_nes_sprite_sheet-removebg (1)_281: -572765151
+      mario_bros_nes_sprite_sheet-removebg (1)_3: -2093399721
+      mario_bros_nes_sprite_sheet-removebg (1)_43: -689489637
+      mario_bros_nes_sprite_sheet-removebg (1)_25: 115699429
+      mario_bros_nes_sprite_sheet-removebg (1)_64: -1172253114
+      mario_bros_nes_sprite_sheet-removebg (1)_171: 1421745476
+      mario_bros_nes_sprite_sheet-removebg (1)_2: -1764747027
+      mario_bros_nes_sprite_sheet-removebg (1)_8: -1009809496
+      mario_bros_nes_sprite_sheet-removebg (1)_116: -1783452258
+      mario_bros_nes_sprite_sheet-removebg (1)_230: -1018761198
+      mario_bros_nes_sprite_sheet-removebg (1)_195: 1790796895
+      mario_bros_nes_sprite_sheet-removebg (1)_283: -1069186771
+      mario_bros_nes_sprite_sheet-removebg (1)_289: 252577423
+      mario_bros_nes_sprite_sheet-removebg (1)_78: 1113472262
+      mario_bros_nes_sprite_sheet-removebg (1)_89: 129179959
+      mario_bros_nes_sprite_sheet-removebg (1)_216: 1699550919
+      mario_bros_nes_sprite_sheet-removebg (1)_30: -1248732958
+      mario_bros_nes_sprite_sheet-removebg (1)_274: -57327183
+      mario_bros_nes_sprite_sheet-removebg (1)_144: 577363188
+      mario_bros_nes_sprite_sheet-removebg (1)_269: -1744295523
+      mario_bros_nes_sprite_sheet-removebg (1)_264: -779148380
+      mario_bros_nes_sprite_sheet-removebg (1)_211: -1121872462
+      mario_bros_nes_sprite_sheet-removebg (1)_186: 124605142
+      mario_bros_nes_sprite_sheet-removebg (1)_107: -1003703240
+      mario_bros_nes_sprite_sheet-removebg (1)_242: -1749099092
+      mario_bros_nes_sprite_sheet-removebg (1)_181: 1015183854
+      mario_bros_nes_sprite_sheet-removebg (1)_218: 1685233412
+      mario_bros_nes_sprite_sheet-removebg (1)_249: -134895513
+      mario_bros_nes_sprite_sheet-removebg (1)_40: 1402770059
+      mario_bros_nes_sprite_sheet-removebg (1)_112: -2039807465
+      mario_bros_nes_sprite_sheet-removebg (1)_149: 341709664
+      mario_bros_nes_sprite_sheet-removebg (1)_170: 1901461623
+      mario_bros_nes_sprite_sheet-removebg (1)_190: -462826320
+      mario_bros_nes_sprite_sheet-removebg (1)_252: -1123454717
+      mario_bros_nes_sprite_sheet-removebg (1)_243: -403779240
+      mario_bros_nes_sprite_sheet-removebg (1)_215: 259790828
+      mario_bros_nes_sprite_sheet-removebg (1)_284: -1342725927
+      mario_bros_nes_sprite_sheet-removebg (1)_250: 350185836
+      mario_bros_nes_sprite_sheet-removebg (1)_31: 414950096
+      mario_bros_nes_sprite_sheet-removebg (1)_143: 819472718
+      mario_bros_nes_sprite_sheet-removebg (1)_12: -2013648152
+      mario_bros_nes_sprite_sheet-removebg (1)_159: -94248502
+      mario_bros_nes_sprite_sheet-removebg (1)_257: -877667883
+      mario_bros_nes_sprite_sheet-removebg (1)_138: -791096486
+      mario_bros_nes_sprite_sheet-removebg (1)_169: 1818518592
+      mario_bros_nes_sprite_sheet-removebg (1)_93: -256211203
+      mario_bros_nes_sprite_sheet-removebg (1)_115: -88256180
+      mario_bros_nes_sprite_sheet-removebg (1)_233: -498933233
+      mario_bros_nes_sprite_sheet-removebg (1)_14: 109682283
+      mario_bros_nes_sprite_sheet-removebg (1)_134: -1555794798
+      mario_bros_nes_sprite_sheet-removebg (1)_76: -236146489
+      mario_bros_nes_sprite_sheet-removebg (1)_6: 514070487
+      mario_bros_nes_sprite_sheet-removebg (1)_28: -1700706893
+      mario_bros_nes_sprite_sheet-removebg (1)_110: -1514681925
+      mario_bros_nes_sprite_sheet-removebg (1)_244: -1912594509
+      mario_bros_nes_sprite_sheet-removebg (1)_167: -725040010
+      mario_bros_nes_sprite_sheet-removebg (1)_202: -610100556
+      mario_bros_nes_sprite_sheet-removebg (1)_288: -2073367743
+      mario_bros_nes_sprite_sheet-removebg (1)_183: 218090483
+      mario_bros_nes_sprite_sheet-removebg (1)_192: 765635367
+      mario_bros_nes_sprite_sheet-removebg (1)_60: -213446373
+      mario_bros_nes_sprite_sheet-removebg (1)_235: 321784974
+      mario_bros_nes_sprite_sheet-removebg (1)_61: 1089956695
+      mario_bros_nes_sprite_sheet-removebg (1)_95: 242216037
+      mario_bros_nes_sprite_sheet-removebg (1)_224: -547590740
+      mario_bros_nes_sprite_sheet-removebg (1)_194: 712313595
+      mario_bros_nes_sprite_sheet-removebg (1)_201: -861299375
+      mario_bros_nes_sprite_sheet-removebg (1)_150: 1912427018
+      mario_bros_nes_sprite_sheet-removebg (1)_191: 1311881337
+      mario_bros_nes_sprite_sheet-removebg (1)_210: -179590478
+      mario_bros_nes_sprite_sheet-removebg (1)_175: -2059211800
+      mario_bros_nes_sprite_sheet-removebg (1)_44: -516579182
+      mario_bros_nes_sprite_sheet-removebg (1)_120: 1854762377
+      mario_bros_nes_sprite_sheet-removebg (1)_82: 799389155
+      mario_bros_nes_sprite_sheet-removebg (1)_298: 1101518346
+      mario_bros_nes_sprite_sheet-removebg (1)_261: 1638187450
+      mario_bros_nes_sprite_sheet-removebg (1)_80: -1556337564
+      mario_bros_nes_sprite_sheet-removebg (1)_209: -39108778
+      mario_bros_nes_sprite_sheet-removebg (1)_177: 1191351185
+      mario_bros_nes_sprite_sheet-removebg (1)_219: 1716113137
+      mario_bros_nes_sprite_sheet-removebg (1)_161: -1499954786
+      mario_bros_nes_sprite_sheet-removebg (1)_296: 400128386
+      mario_bros_nes_sprite_sheet-removebg (1)_22: -1537540194
+      mario_bros_nes_sprite_sheet-removebg (1)_178: -899339384
+      mario_bros_nes_sprite_sheet-removebg (1)_214: -237167042
+      mario_bros_nes_sprite_sheet-removebg (1)_205: -1139655335
+      mario_bros_nes_sprite_sheet-removebg (1)_34: -1259804861
+      mario_bros_nes_sprite_sheet-removebg (1)_199: 1735273004
+      mario_bros_nes_sprite_sheet-removebg (1)_163: -1941676586
+      mario_bros_nes_sprite_sheet-removebg (1)_81: -788299714
+      mario_bros_nes_sprite_sheet-removebg (1)_291: 127112079
+      mario_bros_nes_sprite_sheet-removebg (1)_92: 1080041273
+      mario_bros_nes_sprite_sheet-removebg (1)_124: 1454451404
+      mario_bros_nes_sprite_sheet-removebg (1)_101: 1962226534
+      mario_bros_nes_sprite_sheet-removebg (1)_29: 856829567
+      mario_bros_nes_sprite_sheet-removebg (1)_32: 305698324
+      mario_bros_nes_sprite_sheet-removebg (1)_153: 512070089
+      mario_bros_nes_sprite_sheet-removebg (1)_23: -902081984
+      mario_bros_nes_sprite_sheet-removebg (1)_24: -1931625783
+      mario_bros_nes_sprite_sheet-removebg (1)_18: -938002140
+      mario_bros_nes_sprite_sheet-removebg (1)_128: 682759713
+      mario_bros_nes_sprite_sheet-removebg (1)_122: 1682640458
+      mario_bros_nes_sprite_sheet-removebg (1)_98: -604672276
+      mario_bros_nes_sprite_sheet-removebg (1)_247: -1459480067
+      mario_bros_nes_sprite_sheet-removebg (1)_91: 632552772
+      mario_bros_nes_sprite_sheet-removebg (1)_17: 1242444797
+      mario_bros_nes_sprite_sheet-removebg (1)_277: 1184531755
+      mario_bros_nes_sprite_sheet-removebg (1)_87: 85666843
+      mario_bros_nes_sprite_sheet-removebg (1)_121: -2045416824
+      mario_bros_nes_sprite_sheet-removebg (1)_58: -441942868
+      mario_bros_nes_sprite_sheet-removebg (1)_125: -5272638
+      mario_bros_nes_sprite_sheet-removebg (1)_146: -556172713
+      mario_bros_nes_sprite_sheet-removebg (1)_11: -1358270518
+      mario_bros_nes_sprite_sheet-removebg (1)_70: -1479516724
+      mario_bros_nes_sprite_sheet-removebg (1)_185: 296326002
+      mario_bros_nes_sprite_sheet-removebg (1)_129: -1780092812
+      mario_bros_nes_sprite_sheet-removebg (1)_16: 1860124701
+      mario_bros_nes_sprite_sheet-removebg (1)_241: -819778117
+      mario_bros_nes_sprite_sheet-removebg (1)_103: -1972965482
+      mario_bros_nes_sprite_sheet-removebg (1)_126: -1104887534
+      mario_bros_nes_sprite_sheet-removebg (1)_118: 290142965
+      mario_bros_nes_sprite_sheet-removebg (1)_142: -1539335278
+      mario_bros_nes_sprite_sheet-removebg (1)_73: -1717063284
+      mario_bros_nes_sprite_sheet-removebg (1)_47: 803777024
+      mario_bros_nes_sprite_sheet-removebg (1)_285: -925610594
+      mario_bros_nes_sprite_sheet-removebg (1)_57: 1489050835
+      mario_bros_nes_sprite_sheet-removebg (1)_68: -1172992620
+      mario_bros_nes_sprite_sheet-removebg (1)_88: -363571664
+      mario_bros_nes_sprite_sheet-removebg (1)_145: -190428944
+      mario_bros_nes_sprite_sheet-removebg (1)_147: 1050117451
+      mario_bros_nes_sprite_sheet-removebg (1)_237: -373941195
+      mario_bros_nes_sprite_sheet-removebg (1)_182: 2050533238
+      mario_bros_nes_sprite_sheet-removebg (1)_117: -2079507472
+      mario_bros_nes_sprite_sheet-removebg (1)_180: 118429321
+      mario_bros_nes_sprite_sheet-removebg (1)_260: -134491001
+      mario_bros_nes_sprite_sheet-removebg (1)_255: -1694518849
+      mario_bros_nes_sprite_sheet-removebg (1)_273: 1661571902
+      mario_bros_nes_sprite_sheet-removebg (1)_179: 557265840
+      mario_bros_nes_sprite_sheet-removebg (1)_48: 1892689965
+      mario_bros_nes_sprite_sheet-removebg (1)_168: 1441659604
+      mario_bros_nes_sprite_sheet-removebg (1)_20: -1232993368
+      mario_bros_nes_sprite_sheet-removebg (1)_7: 1935818296
+      mario_bros_nes_sprite_sheet-removebg (1)_157: -270693036
+      mario_bros_nes_sprite_sheet-removebg (1)_136: 1688187197
+      mario_bros_nes_sprite_sheet-removebg (1)_173: -1993084489
+      mario_bros_nes_sprite_sheet-removebg (1)_245: -195394289
+      mario_bros_nes_sprite_sheet-removebg (1)_228: -352520917
+      mario_bros_nes_sprite_sheet-removebg (1)_279: -2037331034
+      mario_bros_nes_sprite_sheet-removebg (1)_71: -1101301458
+      mario_bros_nes_sprite_sheet-removebg (1)_246: -1428911200
+      mario_bros_nes_sprite_sheet-removebg (1)_263: -1199987119
+      mario_bros_nes_sprite_sheet-removebg (1)_227: 1389224375
+      mario_bros_nes_sprite_sheet-removebg (1)_37: 1164531655
+      mario_bros_nes_sprite_sheet-removebg (1)_158: -1139013560
+      mario_bros_nes_sprite_sheet-removebg (1)_258: -635353302
+      mario_bros_nes_sprite_sheet-removebg (1)_212: 70667929
+      mario_bros_nes_sprite_sheet-removebg (1)_276: 2012832440
+      mario_bros_nes_sprite_sheet-removebg (1)_220: 747261232
+      mario_bros_nes_sprite_sheet-removebg (1)_132: 665306786
+      mario_bros_nes_sprite_sheet-removebg (1)_53: -1957227032
+      mario_bros_nes_sprite_sheet-removebg (1)_0: -1184814925
+      mario_bros_nes_sprite_sheet-removebg (1)_63: -1166411474
+      mario_bros_nes_sprite_sheet-removebg (1)_156: 1506291205
+      mario_bros_nes_sprite_sheet-removebg (1)_280: 1832610416
+      mario_bros_nes_sprite_sheet-removebg (1)_162: -508549575
+      mario_bros_nes_sprite_sheet-removebg (1)_259: 1828432977
+      mario_bros_nes_sprite_sheet-removebg (1)_4: 563739785
+      mario_bros_nes_sprite_sheet-removebg (1)_105: 338621587
+      mario_bros_nes_sprite_sheet-removebg (1)_272: 2033349025
+      mario_bros_nes_sprite_sheet-removebg (1)_65: -704703636
+      mario_bros_nes_sprite_sheet-removebg (1)_5: -1455772009
+      mario_bros_nes_sprite_sheet-removebg (1)_148: -1300243158
+      mario_bros_nes_sprite_sheet-removebg (1)_26: 95373007
+      mario_bros_nes_sprite_sheet-removebg (1)_213: -1801608456
+      mario_bros_nes_sprite_sheet-removebg (1)_238: 47805462
+      mario_bros_nes_sprite_sheet-removebg (1)_135: 1606894733
+      mario_bros_nes_sprite_sheet-removebg (1)_225: 485905336
+      mario_bros_nes_sprite_sheet-removebg (1)_297: 361068226
+      mario_bros_nes_sprite_sheet-removebg (1)_86: -630908282
+      mario_bros_nes_sprite_sheet-removebg (1)_226: -972240559
+      mario_bros_nes_sprite_sheet-removebg (1)_39: 145812271
+      mario_bros_nes_sprite_sheet-removebg (1)_166: -1742937458
+      mario_bros_nes_sprite_sheet-removebg (1)_207: -1524410373
+      mario_bros_nes_sprite_sheet-removebg (1)_90: 974527388
+      mario_bros_nes_sprite_sheet-removebg (1)_38: 1190236599
+      mario_bros_nes_sprite_sheet-removebg (1)_83: 423625754
+      mario_bros_nes_sprite_sheet-removebg (1)_130: 185847863
+      mario_bros_nes_sprite_sheet-removebg (1)_55: -334352369
+      mario_bros_nes_sprite_sheet-removebg (1)_77: 274999056
+      mario_bros_nes_sprite_sheet-removebg (1)_66: -919378104
+      mario_bros_nes_sprite_sheet-removebg (1)_96: 985950502
+      mario_bros_nes_sprite_sheet-removebg (1)_119: -1667746531
+      mario_bros_nes_sprite_sheet-removebg (1)_111: -1833862165
+      mario_bros_nes_sprite_sheet-removebg (1)_131: -1767710922
+      mario_bros_nes_sprite_sheet-removebg (1)_15: -418841469
+      mario_bros_nes_sprite_sheet-removebg (1)_176: -100250461
+      mario_bros_nes_sprite_sheet-removebg (1)_75: 1793591834
+      mario_bros_nes_sprite_sheet-removebg (1)_270: 2124290627
+      mario_bros_nes_sprite_sheet-removebg (1)_188: 1175719331
+      mario_bros_nes_sprite_sheet-removebg (1)_35: 94672994
+      mario_bros_nes_sprite_sheet-removebg (1)_113: -434927344
+      mario_bros_nes_sprite_sheet-removebg (1)_222: 1511119954
+      mario_bros_nes_sprite_sheet-removebg (1)_292: -525873118
+      mario_bros_nes_sprite_sheet-removebg (1)_62: -1474050603
+      mario_bros_nes_sprite_sheet-removebg (1)_172: -390492674
+      mario_bros_nes_sprite_sheet-removebg (1)_109: 861069464
+      mario_bros_nes_sprite_sheet-removebg (1)_294: -55769476
+      mario_bros_nes_sprite_sheet-removebg (1)_254: 1701519231
+      mario_bros_nes_sprite_sheet-removebg (1)_275: -2110148797
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
